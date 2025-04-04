@@ -176,9 +176,3 @@ MIT License.
 Yunpeng Wang  
 [LinkedIn](http://www.linkedin.com/in/yunpeng-wang-a33215247)
 
-├── faiss_index_opportunities.bin # FAISS index
-├── Implement Semantic Search.py # Search & retrieve relevant docs
-├── Construct Prompt.py          # Build context + prompt
-├── DeepSeekChat.py              # Send prompt to DeepSeek
-└── README.md                    # This file
-
